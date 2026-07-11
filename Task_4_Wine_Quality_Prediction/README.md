@@ -1,7 +1,7 @@
 # Wine Quality Prediction using Machine Learning
 
 ## Overview -
-This project focuses on predicting the quality of red wine using Machine Learning techniques. The dataset was preprocessed, explored through visualizations and used to train multiple classification models. The performance of each model was evaluated and compared to identify the best performing algorithm.
+The project was completed as part of the Oasis Infobyte Data Analytics Internship(OIBSIP). This project focuses on predicting the quality of wine using Machine Learning techniques. The dataset was preprocessed, explored through visualizations and used to train multiple classification models.
 
 ## Problem Statement -
 Wine quality is influenced by several chemical properties, making manual quality assessment difficult and time consuming. The objective of this project is to build a Machine Learning model that predicts wine quality accurately.
