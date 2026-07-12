@@ -1,7 +1,7 @@
 # Fraud Detection using Machine Learning
 
 ## Overview -
-The project was completed as part of the Oasis Infobyte Data Analytics Internship(OIBSIP). This project focuses on detecting fraudulent financial transactions using Machine Learning techniques. Fraud detection is an important application of data analytics that helps financial institutions identify suspicious activities and reduce financial losses. The project involves data preprocessing, feature engineering, model training, and performance evaluation to classify transactions as fraudulent or legitimate.
+The project was completed as part of the Oasis Infobyte Data Analytics Internship(OIBSIP). This project focuses on detecting fraudulent financial transactions using Machine Learning techniques. The project involves data preprocessing, feature engineering, model training and performance evaluation to classify transactions as fraudulent or legitimate.
 
 # Problem Statement -
 The objective of this project is to develop a Machine Learning model that can automatically identify fraudulent transactions based on historical transaction data, improving both accuracy and efficiency.
@@ -23,7 +23,7 @@ The objective of this project is to develop a Machine Learning model that can au
 7. Interpreted the results and analyzed the model's performance.
 
 # Conclusion -
-
+The project successfully built a fraud detection system using the Random Forest Classifier model. It achieved very high accuracy approx 99.99% and demonstrated strong performance in distinguishing between normal and fraud transactions.
 
 # Author -
 Aniket Mishra
