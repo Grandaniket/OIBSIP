@@ -1,7 +1,7 @@
 # Google Play Store Data Analysis | OIBSIP Data Analytics Internship
 
 ## Overview -
-This project focuses on analyzing the Google Play Store Apps and User Reviews datasets using Exploratory Data Analysis (EDA). The datasets were cleaned, processed, and visualized to uncover insights about app categories, ratings, installs, pricing, app sizes, and user sentiments. The analysis helps identify trends, user preferences, and factors that contribute to an app's popularity and success on the Google Play Store.
+The project was completed as part of the Oasis Infobyte Data Analytics Internship(OIBSIP). This project focuses on analyzing the Google Play Store Apps and User Reviews datasets using Exploratory Data Analysis (EDA). The analysis helps identify trends, user preferences, and factors that contribute to an app's popularity and success on the Google Play Store.
 
 ## Problem Statement - 
 The objective of this project is to clean, categorize and visualize Google Play Store data to understand market dynamics and gain in depth insights into the android app market by leveraging data analytics and visualization.
